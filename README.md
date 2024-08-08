@@ -8,3 +8,4 @@
 
 permitPrePay() : 调用token的 permit 进行授权
 claimNFT() : 通过默克尔树验证白名单，并利用 permitPrePay 的授权，转入 token 转出 NFT 。
+# AirdopMerkleNFTMarket
