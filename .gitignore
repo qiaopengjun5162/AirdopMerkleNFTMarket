@@ -12,3 +12,47 @@ docs/
 
 # Dotenv file
 .env
+
+# IDE files
+.idea/
+.vscode/
+
+# Node modules
+node_modules/
+
+# Package files
+package-lock.json
+yarn.lock
+
+# Pycache
+__pycache__/
+
+# Python bytecode
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Python
+*.pyo
+*.pyc
+*.pyd
+*.pyi
+*.pyw
+*.pyz
+*.pyd
